@@ -1,4 +1,4 @@
-# AdvanceWidget1
+# AdvancedWidget1
 
 # ScreenShoot Aplikasi 
 ![2](https://cloud.githubusercontent.com/assets/22118129/18814707/9e7230a4-8345-11e6-9bcb-1a1d398ecc6e.JPG)
